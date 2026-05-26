@@ -1,3 +1,4 @@
 Capitulo 1: El inicio de la aventura
 Capítulo 2: El encuentro con el código.
 Capítulo 3: El misterioso error de sintaxis
+Capitulo 4: El bug fue resuelto
